@@ -35,6 +35,7 @@ h2 {
   font-size: large;
   font-style: italic;
   text-align: justify;
+  padding-right: 45px;
 }
 .Seguir-leyendo {
   color: dimgray;
@@ -46,7 +47,7 @@ h2 {
   font-family: Arial;
   font-size: large;
   font-style: italic;
-  text-align: left;
+  text-align: justify;
 }
 .carouselTitulos {
   color: black;
@@ -55,4 +56,49 @@ h2 {
 .descripcion {
   color: black;
   font-style: italic;
+}
+.deco {
+  text-align: center;
+}
+.seccionDeco {
+  font-family: Arial;
+  color: black;
+  font-style: italic;
+  text-align: center;
+  font-size: larger;
+}
+.consultas {
+  font-family: Arial;
+  color: black;
+  font-style: italic;
+  text-align: center;
+  font-size: larger;
+  padding-left: 45px;
+}
+
+.btn-light {
+  background-color: #f8dade;
+  border-color: #f8dade;
+  font-family: arial;
+}
+.card-text {
+  font-family: arial;
+  text-align: justify;
+  font-size: small;
+}
+.formulario {
+  padding-left: 55px;
+}
+.form-label {
+  font-family: arial;
+}
+
+.enviar {
+  background-color: white;
+  border-color: #f8dade;
+  font-family: arial;
+}
+.botonEnvio {
+  float: right;
+  padding-left: 80px;
 }
